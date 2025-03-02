@@ -8,7 +8,7 @@ namespace ExerciciosLogica.Exercicios
 
         public static void CaucularAreaRetangulo()
         {
-
+            //Este é um teste de commit
         }
 
         public static void ExercicioDois()
